@@ -1,3 +1,7 @@
 {
-  "recommendations": ["diz.ecsstractor-port", "ms-vscode.sublime-keybindings"]
+  "recommendations": [
+    "diz.ecsstractor-port",
+    "ms-vscode.sublime-keybindings",
+    "mhutchie.git-graph"
+  ]
 }
